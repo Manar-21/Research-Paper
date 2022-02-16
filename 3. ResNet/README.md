@@ -13,7 +13,7 @@
 You Can read the paper from [Here](https://arxiv.org/abs/1512.03385v1)
 
 ## Monitoring 
-Results ([wandb link](https://wandb.ai/manar/vgg?workspace=user-manar))
+Results ([wandb link](https://wandb.ai/manar/ResNet?workspace=user-manar))
 
 ### Architecture 
 <p align="center">
